@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SalesDatabaseProject.Customer">
+    <Position X="0.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQCAEAAACAABAAAAAAAQAAAAQEBAEAAAAAAAAABAAg=</HashCode>
+      <FileName>Classes\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesDatabaseProject.Order">
+    <Position X="3.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQCAQAAAAAAAAAAAAAQAAAAAAEAAFAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesDatabaseProject.OrderDetail">
+    <Position X="6.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>FAQCAAAAABAAAAAAAAAAAAAAAAEAAEAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\OrderDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesDatabaseProject.Product">
+    <Position X="9.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQDAAAAAQAgAEAAAAAAAAAAAAEgAEEAAAgACAABBAA=</HashCode>
+      <FileName>Classes\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesDatabaseProject.ProductFamily">
+    <Position X="12.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAgAAAAAAAAAAQAAAEAAEAAAAAAAAQAAAA=</HashCode>
+      <FileName>Classes\ProductFamily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
